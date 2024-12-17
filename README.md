@@ -41,10 +41,6 @@ Key visualizations included in this analysis:
 ## **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request for any feature suggestions, bug fixes, or enhancements.
 
-## **License**
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## **Acknowledgments**
 - The creators of the dataset
 - Open-source contributors and library developers
 
